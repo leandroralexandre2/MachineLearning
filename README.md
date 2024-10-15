@@ -6,12 +6,7 @@ Este repositório contém um projeto de Machine Learning que utiliza o algoritmo
 
 O objetivo deste projeto é construir um modelo preditivo que classifique a qualidade de vinhos em diferentes categorias, a partir de um conjunto de dados que inclui variáveis como teor alcoólico, acidez, fenóis, entre outras. O modelo foi desenvolvido utilizando a biblioteca Scikit-learn, com o algoritmo RandomForestClassifier, amplamente conhecido pela sua eficiência em tarefas de classificação.
 
-📂 Estrutura do Projeto
 
-wine_quality_rf.py: Script principal que contém todo o pipeline de Machine Learning.
-data/: Diretório para armazenar o dataset de vinhos.
-notebooks/: Notebooks Jupyter utilizados para análises exploratórias e visualizações dos dados.
-README.md: Este arquivo explicativo.
 
 🔧 Tecnologias Utilizadas
 
