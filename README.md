@@ -20,7 +20,7 @@ RandomForestClassifier para a criação do modelo de classificação.
 Clone este repositório:
 bash
 Copiar código
-git clone https://github.com/seu-usuario/wine-quality-prediction.git
+git clone https://github.com/leandroralexandre2/wine-quality-prediction.git
 Instale as dependências:
 bash
 Copiar código
